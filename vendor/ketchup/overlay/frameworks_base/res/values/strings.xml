@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Override common branding strings -->
+    <string name="lineage_name">KetchupROM</string>
+    <string name="lineage_name_short">KetchupROM</string>
+    <string name="lineage_description">KetchupROM - lightweight custom Android</string>
+    <!-- Example overrides, add more as you find them -->
+</resources>
+
